@@ -1,5 +1,8 @@
 ## Simple
 
+![Simple](https://github.com/user-attachments/assets/76ef0d2d-04f5-49d1-ba55-539f9dedc7df)
+
+
 Add to Claude Desktop's config file:
 
 ``` json
