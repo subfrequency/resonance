@@ -31,3 +31,5 @@ Add to Claude Desktop's config file:
 - [Example Servers - Model Context Protocol](https://modelcontextprotocol.io/examples)
 - [Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
 - [MCP Server Finder](https://www.mcpserverfinder.com/)
+- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent)
+- [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic](https://www.youtube.com/watch?v=kQmXtrmQ5Zg&t=3415s)
