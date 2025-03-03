@@ -27,9 +27,10 @@ Add to Claude Desktop's config file:
 
 ## See also
 
-- [For Server Developers - Model Context Protocol](https://modelcontextprotocol.io/quickstart/server)
-- [Example Servers - Model Context Protocol](https://modelcontextprotocol.io/examples)
-- [Model Context Protocol Servers](https://github.com/modelcontextprotocol/servers)
-- [MCP Server Finder](https://www.mcpserverfinder.com/)
-- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent)
-- [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic](https://www.youtube.com/watch?v=kQmXtrmQ5Zg&t=3415s)
+- [Model Context Protocol quickstart for server developers](https://modelcontextprotocol.io/quickstart/server)
+- [Model Context Protocol example servers](https://modelcontextprotocol.io/examples)
+- [Model Context Protocol server implementations](https://github.com/modelcontextprotocol/servers)
+- [MCP Server Finder tool](https://www.mcpserverfinder.com/)
+- [`lastmile-ai/mcp-agent`](https://github.com/lastmile-ai/mcp-agent)
+- [Building agents with Model Context Protocol: Full workshop with Mahesh Murag of Anthropic](https://www.youtube.com/watch?v=kQmXtrmQ5Zg&t=3415s)
+- [Claude 3.7 Sonnet starter guide and Claude Code overview](https://www.youtube.com/watch?v=jCVO57fZIfM)
